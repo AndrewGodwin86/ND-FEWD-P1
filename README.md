@@ -1,2 +1,4 @@
 # ND-FEWD-P1
-Udacity Nanodegree - Front End Web Developer - P1 - Mockup to Website
+P1 - Mockup to Website
+
+This is the first project in the Front End Web Developer Nanodegree from Udacity.
