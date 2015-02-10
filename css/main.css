@@ -1,0 +1,42 @@
+/* Enter your custom CSS here */
+body {
+	font-family: Verdana, sans-serif;
+}
+
+h1 {
+	color: #666;
+	text-align: center;
+	font-size: 48px;
+	margin-top: 45px;
+	margin-bottom: 19px;
+}
+
+h2 {
+	color: #f07c17;
+	font-weight: 600;
+	font-size: 24px;
+	margin-top: 11px;
+	margin-bottom: 30px;
+}
+
+p {
+	font-size: 16px;
+	line-height: 2;
+}
+img {
+    max-width:100%;
+}
+img.mug {
+	margin-top: 11px;
+}
+
+.main-features {
+	border: 1px solid #ccc;
+	margin-top: 30px;
+	padding: 19px 30px 30px 30px;
+}
+
+.main-features li {
+	font-size: 16px;
+	line-height: 2;
+}
