@@ -1,15 +1,22 @@
-/* Enter your custom CSS here */
+/* General content */
 body {
-	font-family: Verdana, sans-serif;
+	font: 16px/1px Verdana, sans-serif;
 }
 
+
+p {
+	line-height: 2;
+}
+
+
+/* Headings */
 h1 {
 	color: #666;
 	text-align: center;
 	font-size: 48px;
-	margin-top: 45px;
-	margin-bottom: 19px;
+	margin: 45px 0 19px;
 }
+
 
 h2 {
 	color: #f07c17;
@@ -19,24 +26,25 @@ h2 {
 	margin-bottom: 30px;
 }
 
-p {
-	font-size: 16px;
-	line-height: 2;
-}
+
+/* Left column */
 img {
-    max-width:100%;
+	max-width: 100%;
 }
-img.mug {
+
+
+.mug {
 	margin-top: 11px;
 }
+
 
 .main-features {
 	border: 1px solid #ccc;
 	margin-top: 30px;
-	padding: 19px 30px 30px 30px;
+	padding: 19px 30px 30px;
 }
 
-.main-features li {
-	font-size: 16px;
+
+.features-item {
 	line-height: 2;
 }
